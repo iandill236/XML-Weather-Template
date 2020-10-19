@@ -102,6 +102,57 @@
   <ItemGroup>
     <None Include="Resources\Webp.net-resizeimage %2815%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderstormImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drizzleImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mistImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sandImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volcanoImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squallImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tornadoImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudyImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunderstormIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mistIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudyIcon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
